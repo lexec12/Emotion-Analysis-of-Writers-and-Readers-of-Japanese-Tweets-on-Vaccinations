@@ -1,1 +1,1 @@
-# Multi-Class_Classification_using_BERT_models_for_Detecting_Depression_Signs_from_Social_Media_Text
+# Emotion Analysis of Writers and Readers of Japanese Tweets on Vaccinations
